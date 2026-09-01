@@ -8,8 +8,8 @@ I am currently building my foundations in Machine Learning and Quantitative Fina
 
 ### 🔗 Coding Profiles
 
-* 🟡 **LeetCode:** [CODESHUBHAM098](https://leetcode.com) (130+ Problems Solved)
-* 🔴 **Codeforces:** [Codeshubham702](https://codeforces.com) (150+ Problems Solved)
+* 🟡 **LeetCode:** [CODESHUBHAM098](https://leetcode.com) 
+* 🔴 **Codeforces:** [Codeshubham702](https://codeforces.com)
 
 ---
 
