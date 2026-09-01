@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Shubham! 👋
 
-<!--
-**Shubham-jain702/Shubham-jain702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **2nd Year CSE Student | AI/ML & Quant Enthusiast**
 
-Here are some ideas to get you started:
+I am currently building my foundations in Machine Learning and Quantitative Finance, while actively solving problems on various coding platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Coding Profiles
+
+* 🟡 **LeetCode:** [CODESHUBHAM098](https://leetcode.com) (130+ Problems Solved)
+* 🔴 **Codeforces:** [Codeshubham702](https://codeforces.com) (150+ Problems Solved)
+
+---
+
+### 📊 Live Coding Stats
+
+<p align="left">
+  <!-- LeetCode Stats Card -->
+  <img src="https://vercel.app" alt="Shubham's LeetCode Stats" height="180" />
+  
+  &nbsp;&nbsp;
+  
+  <!-- Codeforces Stats Card -->
+  <img src="https://vercel.app" alt="Shubham's Codeforces Stats" height="180" />
+</p>
